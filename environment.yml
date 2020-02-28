@@ -1,0 +1,57 @@
+name: python-formation
+channels:
+  - defaults
+dependencies:
+  - blas
+  - bokeh
+  - ca-certificates
+  - certifi
+  - cycler
+  - freetype
+  - icu
+  - intel-openmp
+  - jinja2
+  - joblib
+  - jpeg
+  - kiwisolver
+  - libpng
+  - libtiff
+  - markupsafe
+  - matplotlib
+  - matplotlib-base
+  - mkl
+  - mkl-service
+  - mkl_fft
+  - mkl_random
+  - numpy
+  - numpy-base
+  - olefile
+  - openssl
+  - packaging
+  - pandas
+  - patsy
+  - pillow
+  - pip
+  - pyparsing
+  - pyqt
+  - python
+  - python-dateutil
+  - pytz
+  - pyyaml
+  - qt
+  - scikit-learn
+  - scipy
+  - seaborn
+  - setuptools
+  - sip
+  - six
+  - sqlite
+  - statsmodels
+  - tk
+  - tornado
+  - wheel
+  - xz
+  - yaml
+  - zlib
+  - zstd
+prefix: C:\Users\s4d-asus-14\Anaconda3\envs\python-formation
